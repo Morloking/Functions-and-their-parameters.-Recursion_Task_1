@@ -14,7 +14,6 @@ double division(double x, double y) {
 }
 
 int main() {
-    setlocale(LC_ALL, "RUSSIAN");
 	int a = 5, b = 10;
 
 	int s = sum(a, b);
